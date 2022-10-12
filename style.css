@@ -1,0 +1,78 @@
+body{
+	color: black;
+	background-color: #4df553;
+	background-size: cover;
+	background-position: center;
+	font-family: 'georgia', times, san-serif;
+	line-height: normal;
+	margin: auto;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	padding: 20px;
+}
+
+#pilih_menu{
+	background-color: #0000b3;
+	height: 30px; line-height: 30px;
+	font-size: 20px; margin-top: 5px;
+}
+.menu{
+	color: white;
+}
+
+#pilih_menu a{
+	text-align: center;
+}
+
+#pilih_menu a:hover{
+	background-color: #1a1aff; 
+}
+
+.banner {
+	height: 250px;
+	background-image: url(image/kutai.jpg);
+	background-position: 0px -520px;
+	border-top: 5px solid #32d621;
+	border-bottom: 5px solid #32d621;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 0px;
+}
+
+h3 {
+	padding: 20px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
+
+h4 {
+	padding: 20px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
+
+b {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+a {
+	padding: 20px;
+	padding-top: 0px;
+}

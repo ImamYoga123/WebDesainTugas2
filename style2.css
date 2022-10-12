@@ -1,0 +1,61 @@
+body{
+	color: black;
+	background-color: #e2f54d;
+	background-size: cover;
+	background-position: center;
+	font-family: 'georgia', times, san-serif;
+	line-height: normal;
+	margin: auto;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	padding: 20px;
+}
+
+.banner {
+	height: 250px;
+	background-image: url(image/linggoasri.jpg);
+	background-position: 0px -520px;
+	border-top: 5px solid #e9ef17;
+	border-bottom: 5px solid #e9ef17;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 0px;
+}
+
+h3 {
+	padding: 20px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
+
+h4 {
+	padding: 20px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
+
+b {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+p {
+	padding: 20px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	text-align: justify;
+}
+
+a {
+	padding: 20px;
+	padding-top: 0px;
+}
